@@ -145,7 +145,7 @@
     transition: transform 200ms ease-in;
   }
   
-  .delete_img:hover {
+  .todo .delete_img:hover {
     transform: rotateZ(0);
   }
   
